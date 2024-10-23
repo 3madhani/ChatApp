@@ -1,4 +1,4 @@
-# note_firebase_app
+# ChatApp
 
 A new Flutter project.
 
